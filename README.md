@@ -1,2 +1,3 @@
-# texcodebasic
-A simple LATEX code Template Generator for the Format of Journals and IEEE Publications
+# Python CLI - LaTeX Code - Template
+
+A simple python code that generates a Fixed LaTeX code using a pre-existing Template.
